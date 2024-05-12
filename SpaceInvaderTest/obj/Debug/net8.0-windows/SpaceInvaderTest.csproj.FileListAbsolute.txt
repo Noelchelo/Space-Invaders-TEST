@@ -1,0 +1,17 @@
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\bin\Debug\net8.0-windows\SpaceInvaderTest.exe
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\bin\Debug\net8.0-windows\SpaceInvaderTest.deps.json
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\bin\Debug\net8.0-windows\SpaceInvaderTest.runtimeconfig.json
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\bin\Debug\net8.0-windows\SpaceInvaderTest.dll
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\bin\Debug\net8.0-windows\SpaceInvaderTest.pdb
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.Form1.resources
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.csproj.GenerateResource.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.AssemblyInfoInputs.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.AssemblyInfo.cs
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.csproj.CoreCompileInputs.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.sourcelink.json
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.dll
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\refint\SpaceInvaderTest.dll
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.pdb
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\SpaceInvaderTest.genruntimeconfig.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\SpaceInvaderTest\obj\Debug\net8.0-windows\ref\SpaceInvaderTest.dll
