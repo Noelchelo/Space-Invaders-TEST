@@ -1,0 +1,7 @@
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\bin\Debug\EjemploClases.exe.config
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\bin\Debug\EjemploClases.exe
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\bin\Debug\EjemploClases.pdb
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\obj\Debug\EjemploClases.csproj.AssemblyReference.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\obj\Debug\EjemploClases.csproj.CoreCompileInputs.cache
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\obj\Debug\EjemploClases.exe
+C:\Users\Noels\Downloads\TEST\Space-Invaders-TEST\EjemploClases\obj\Debug\EjemploClases.pdb
